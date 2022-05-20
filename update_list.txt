@@ -1,2 +1,2 @@
 1
-https://raw.githubusercontent.com/NESGUIAM/Programes/main/DownLoadFile.exe DownLoadFile\DownLoadFile.exe
+https://raw.githubusercontent.com/NESGUIAM/Programes/main/DownLoadFile.exe&DownLoadFile\DownLoadFile.exe
